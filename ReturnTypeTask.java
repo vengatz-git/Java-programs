@@ -15,7 +15,7 @@ public class ReturnTypeTask {
 		
 		int result = add(num1 , num2);
 		
-		System.out.println("The value of "+num1+" and "+num2+ " is : "+result);
+		System.out.println("The sum of "+num1+" and "+num2+ " is : "+result);
 		
 	}
 	
